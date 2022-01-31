@@ -139,10 +139,10 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1085648628950269321}
   - {fileID: 2426524843273486550}
-  - {fileID: 8520569680298854597}
+  - {fileID: 1085648628950269321}
   - {fileID: 9191618598447186228}
+  - {fileID: 8520569680298854597}
   m_Father: {fileID: 8260094676725085034}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -370,7 +370,7 @@ PrefabInstance:
     - target: {fileID: 4078233624974716462, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_Name
-      value: Choice3Bg
+      value: ChoiceBG
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -410,7 +410,7 @@ PrefabInstance:
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -525,7 +525,7 @@ PrefabInstance:
     - target: {fileID: 4078233624974716462, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_Name
-      value: 'Choice4Bg '
+      value: ChoiceBG
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -565,7 +565,7 @@ PrefabInstance:
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -680,7 +680,7 @@ PrefabInstance:
     - target: {fileID: 4078233624974716462, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_Name
-      value: Choice2Bg
+      value: ChoiceBG
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -720,7 +720,7 @@ PrefabInstance:
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -855,7 +855,7 @@ PrefabInstance:
     - target: {fileID: 4078233624974716462, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_Name
-      value: Choice1Bg
+      value: ChoiceBG
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
@@ -895,7 +895,7 @@ PrefabInstance:
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8269446580531676334, guid: 2b1db8407a0a5604d946761d37a4472c,
         type: 3}
