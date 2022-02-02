@@ -105,10 +105,10 @@ RectTransform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0.15}
-  m_AnchorMax: {x: 1, y: 0.7}
-  m_AnchoredPosition: {x: 0, y: 20}
-  m_SizeDelta: {x: 0, y: -30}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 330}
+  m_SizeDelta: {x: 0, y: -950}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!1001 &7348921712599617847
 PrefabInstance:
@@ -226,6 +226,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.pageCount
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3392917958854486556, guid: fd5c5f78af074bc4797f6bfec47e0bef,
+        type: 3}
+      propertyPath: m_CellSize.x
+      value: 730
+      objectReference: {fileID: 0}
+    - target: {fileID: 3392917958854486556, guid: fd5c5f78af074bc4797f6bfec47e0bef,
+        type: 3}
+      propertyPath: m_CellSize.y
+      value: 170
       objectReference: {fileID: 0}
     - target: {fileID: 5956119554998807513, guid: fd5c5f78af074bc4797f6bfec47e0bef,
         type: 3}
